@@ -39,11 +39,11 @@ Aplicativo para armazenar e organizar treinos da academia.
 
 
 ## 🔖 Layout
+Feito através do AdobeXD <img align="center"  alt="jef-javascript" height="20" width="20" src="https://user-images.githubusercontent.com/82906124/176941903-4d94b1fc-6408-4037-95e3-3480f3766faf.gif"> 
+</div>
 
-Feito através do AdobeXD
 
-
-## Executando o projeto
+## 📚 Executando o projeto
 
 Utilize o **yarn** ou o **npm install** para instalar as dependências do projeto.
 Em seguida, inicie o projeto.
