@@ -34,6 +34,7 @@ Aplicativo para armazenar e organizar treinos da academia.
 -   [ ] Gradient colors
 -   [ ] React Navigation Stack
 -   [ ] React Native Gesture Handler
+-   [ ] Styled Components💅 - Tecnologia para componentizar estilização CSS no React através do Javascript
 
 
 
